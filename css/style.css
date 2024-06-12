@@ -121,3 +121,43 @@ body {
 .img-headline img {
     max-width: 90%;
 }
+
+/* Section */
+section {
+    display: inline-block;
+
+    width: 90%;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
+
+section h2 {
+    width: 100%; 
+    margin: 0px;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    color: #180F4A;
+}
+
+/* Cards de serviços */
+.servicos {
+    display: inline-block;
+
+    margin-top: 5%;
+}
+
+.card {
+    display: inline-block;
+
+    width: 30%;
+    padding: 20px;
+    margin: 1px;
+    border: 1px solid #FF2978;
+    border-radius: 10px;
+    cursor: pointer;
+}
