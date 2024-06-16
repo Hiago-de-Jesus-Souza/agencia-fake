@@ -204,3 +204,10 @@ footer {
 strong {
     color: white;
 }
+
+.whats {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    width: 100px;
+}
